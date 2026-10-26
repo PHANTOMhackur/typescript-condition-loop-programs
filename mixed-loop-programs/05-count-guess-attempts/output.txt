@@ -1,0 +1,7 @@
+Sample run (user input is shown after each prompt):
+Enter guess (1-10): 3
+Too low. Try again.
+Enter guess (1-10): 5
+Too low. Try again.
+Enter guess (1-10): 7
+Correct! You guessed the number in 3 attempt(s).

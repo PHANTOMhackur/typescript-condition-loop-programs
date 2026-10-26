@@ -1,0 +1,13 @@
+{
+  "name": "typescript-condition-loop-programs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "20 TypeScript examples for conditions and looping statements",
+  "scripts": {
+    "build": "tsc",
+    "start:guess": "node dist/mixed-loop-programs/05-count-guess-attempts/program.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
